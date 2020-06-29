@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">RecyclerView App</string>
+    <string name="name">Name</string>
+    <string name="genre">Genre</string>
+
+    <array name="image">
+        <item>@drawable/dimitrivegas_likemike</item>
+        <item>@drawable/diplo</item>
+        <item>@drawable/hardwell</item>
+        <item>@drawable/illenium</item>
+        <item>@drawable/marshmello</item>
+        <item>@drawable/martingarrix</item>
+        <item>@drawable/thechainsmoker</item>
+        <item>@drawable/tiesto</item>
+        <item>@drawable/w_w</item>
+        <item>@drawable/zedd</item>
+    </array>
+
+    <string-array name="nama">
+        <item>Dimitri vegas Dan Like Mike</item>
+        <item>Diplo</item>
+        <item>Hardwell</item>
+        <item>Illenium</item>
+        <item>Marshmello</item>
+        <item>Martin Garrix</item>
+        <item>The Chainsmoker</item>
+        <item>Tiesto</item>
+        <item>W dan W</item>
+        <item>Zedd</item>
+    </string-array>
+
+    <string-array name="genre">
+        <item>Progressive House</item>
+        <item>Dubstep</item>
+        <item>Progressive House</item>
+        <item>Future Bass</item>
+        <item>Trap</item>
+        <item>Progressive House</item>
+        <item>Future Bass</item>
+        <item>Progressive House</item>
+        <item>Progressive House</item>
+        <item>Progressive House</item>
+    </string-array>
+
+</resources>
